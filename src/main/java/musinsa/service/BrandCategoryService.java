@@ -13,9 +13,6 @@ public class BrandCategoryService {
     @Autowired
     private BrandCategoryRepository brandCategoryRepository;
 
-    @Autowired
-    private BrandRepository brandRepository;
-
     @Transactional
     public void updateBrandCategoryPrice(ProductEntity productEntity) {
         Long brandId = productEntity.getBrandEntity().getId();
