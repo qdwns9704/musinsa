@@ -1,0 +1,1079 @@
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 1
+    },
+    "category": {
+        "id": 1
+    },
+    "name": "A상의",
+    "price": 11200
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 1
+    },
+    "category": {
+        "id": 2
+    },
+    "name": "A아우터",
+    "price": 5500
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 1
+    },
+    "category": {
+        "id": 3
+    },
+    "name": "A바지",
+    "price": 4200
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 1
+    },
+    "category": {
+        "id": 4
+    },
+    "name": "A스니커즈",
+    "price": 9000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 1
+    },
+    "category": {
+        "id": 5
+    },
+    "name": "A가방",
+    "price": 2000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 1
+    },
+    "category": {
+        "id": 6
+    },
+    "name": "A모자",
+    "price": 1700
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 1
+    },
+    "category": {
+        "id": 7
+    },
+    "name": "A양말",
+    "price": 1800
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 1
+    },
+    "category": {
+        "id": 8
+    },
+    "name": "A악세사리",
+    "price": 2300
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 2
+    },
+    "category": {
+        "id": 1
+    },
+    "name": "B상의",
+    "price":10500
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 2
+    },
+    "category": {
+        "id": 2
+    },
+    "name": "B아우터",
+    "price":5900
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 2
+    },
+    "category": {
+        "id": 3
+    },
+    "name": "B바지",
+    "price":3800
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 2
+    },
+    "category": {
+        "id": 4
+    },
+    "name": "B스니커즈",
+    "price":9100
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 2
+    },
+    "category": {
+        "id": 5
+    },
+    "name": "B가방",
+    "price":2100
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 2
+    },
+    "category": {
+        "id": 6
+    },
+    "name": "B모자",
+    "price":2000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 2
+    },
+    "category": {
+        "id": 7
+    },
+    "name": "B양말",
+    "price":2000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 2
+    },
+    "category": {
+        "id": 8
+    },
+    "name": "B악세서리",
+    "price":2200
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 3
+    },
+    "category": {
+        "id": 1
+    },
+    "name": "C상의",
+    "price": 10000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 3
+    },
+    "category": {
+        "id": 2
+    },
+    "name": "C아우터",
+    "price": 6200
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 3
+    },
+    "category": {
+        "id": 3
+    },
+    "name": "C바지",
+    "price": 3300
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 3
+    },
+    "category": {
+        "id": 4
+    },
+    "name": "C스니커즈",
+    "price": 9200
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 3
+    },
+    "category": {
+        "id": 5
+    },
+    "name": "C가방",
+    "price": 2200
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 3
+    },
+    "category": {
+        "id": 6
+    },
+    "name": "C모자",
+    "price": 1900
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 3
+    },
+    "category": {
+        "id": 7
+    },
+    "name": "C양말",
+    "price": 2200
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 3
+    },
+    "category": {
+        "id": 8
+    },
+    "name": "C악세서리",
+    "price": 2100
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 4
+    },
+    "category": {
+        "id": 1
+    },
+    "name": "D상의",
+    "price": 10100
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 4
+    },
+    "category": {
+        "id": 2
+    },
+    "name": "D아우터",
+    "price": 5100
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 4
+    },
+    "category": {
+        "id": 3
+    },
+    "name": "D바지",
+    "price": 3000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 4
+    },
+    "category": {
+        "id": 4
+    },
+    "name": "D스니커즈",
+    "price": 9500
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 4
+    },
+    "category": {
+        "id": 5
+    },
+    "name": "D가방",
+    "price": 2500
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 4
+    },
+    "category": {
+        "id": 6
+    },
+    "name": "D모자",
+    "price": 1500
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 4
+    },
+    "category": {
+        "id": 7
+    },
+    "name": "D양말",
+    "price": 2400
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 4
+    },
+    "category": {
+        "id": 8
+    },
+    "name": "D악세서리",
+    "price": 2000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 5
+    },
+    "category": {
+        "id": 1
+    },
+    "name": "E상의",
+    "price": 10700
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 5
+    },
+    "category": {
+        "id": 2
+    },
+    "name": "E아우터",
+    "price": 5000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 5
+    },
+    "category": {
+        "id": 3
+    },
+    "name": "E바지",
+    "price": 3800
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 5
+    },
+    "category": {
+        "id": 4
+    },
+    "name": "E스니커즈",
+    "price": 9900
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 5
+    },
+    "category": {
+        "id": 5
+    },
+    "name": "E가방",
+    "price": 2300
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 5
+    },
+    "category": {
+        "id": 6
+    },
+    "name": "E모자",
+    "price": 1800
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 5
+    },
+    "category": {
+        "id": 7
+    },
+    "name": "E양말",
+    "price": 2100
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 5
+    },
+    "category": {
+        "id": 8
+    },
+    "name": "E악세서리",
+    "price": 2100
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 6
+    },
+    "category": {
+        "id": 1
+    },
+    "name": "F상의",
+    "price": 11200
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 6
+    },
+    "category": {
+        "id": 2
+    },
+    "name": "F아우터",
+    "price": 7200
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 6
+    },
+    "category": {
+        "id": 3
+    },
+    "name": "F바지",
+    "price": 4000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 6
+    },
+    "category": {
+        "id": 4
+    },
+    "name": "F스니커즈",
+    "price": 9300
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 6
+    },
+    "category": {
+        "id": 5
+    },
+    "name": "F가방",
+    "price": 2100
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 6
+    },
+    "category": {
+        "id": 6
+    },
+    "name": "F모자",
+    "price": 1600
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 6
+    },
+    "category": {
+        "id": 7
+    },
+    "name": "F양말",
+    "price": 2300
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 6
+    },
+    "category": {
+        "id": 8
+    },
+    "name": "F악세서리",
+    "price": 1900
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 7
+    },
+    "category": {
+        "id": 1
+    },
+    "name": "G상의",
+    "price": 10500
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 7
+    },
+    "category": {
+        "id": 2
+    },
+    "name": "G아우터",
+    "price": 5800
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 7
+    },
+    "category": {
+        "id": 3
+    },
+    "name": "G바지",
+    "price": 3900
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 7
+    },
+    "category": {
+        "id": 4
+    },
+    "name": "G스니커즈",
+    "price": 9000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 7
+    },
+    "category": {
+        "id": 5
+    },
+    "name": "G가방",
+    "price": 2200
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 7
+    },
+    "category": {
+        "id": 6
+    },
+    "name": "G모자",
+    "price": 1700
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 7
+    },
+    "category": {
+        "id": 7
+    },
+    "name": "G양말",
+    "price": 2100
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 7
+    },
+    "category": {
+        "id": 8
+    },
+    "name": "G악세서리",
+    "price": 2000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 8
+    },
+    "category": {
+        "id": 1
+    },
+    "name": "H상의",
+    "price": 10800
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 8
+    },
+    "category": {
+        "id": 2
+    },
+    "name": "H아우터",
+    "price": 6300
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 8
+    },
+    "category": {
+        "id": 3
+    },
+    "name": "H바지",
+    "price": 3100
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 8
+    },
+    "category": {
+        "id": 4
+    },
+    "name": "H스니커즈",
+    "price": 9700
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 8
+    },
+    "category": {
+        "id": 5
+    },
+    "name": "H가방",
+    "price": 2100
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 8
+    },
+    "category": {
+        "id": 6
+    },
+    "name": "H모자",
+    "price": 1600
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 8
+    },
+    "category": {
+        "id": 7
+    },
+    "name": "H양말",
+    "price": 2000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 8
+    },
+    "category": {
+        "id": 8
+    },
+    "name": "H악세서리",
+    "price": 2000
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 9
+    },
+    "category": {
+        "id": 1
+    },
+    "name": "I상의",
+    "price": 11400
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 9
+    },
+    "category": {
+        "id": 2
+    },
+    "name": "I아우터",
+    "price": 6700
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 9
+    },
+    "category": {
+        "id": 3
+    },
+    "name": "I바지",
+    "price": 3200
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 9
+    },
+    "category": {
+        "id": 4
+    },
+    "name": "I스니커즈",
+    "price": 9500
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 9
+    },
+    "category": {
+        "id": 5
+    },
+    "name": "I가방",
+    "price": 2400
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 9
+    },
+    "category": {
+        "id": 6
+    },
+    "name": "I모자",
+    "price": 1700
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 9
+    },
+    "category": {
+        "id": 7
+    },
+    "name": "I양말",
+    "price": 1700
+}
+
+###
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+    "brand": {
+        "id": 9
+    },
+    "category": {
+        "id": 8
+    },
+    "name": "I악세서리",
+    "price": 2400
+}

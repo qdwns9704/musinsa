@@ -1,0 +1,71 @@
+POST http://localhost:8080/api/brands
+Content-Type: application/json
+
+{
+    "name": "A"
+}
+
+###
+POST http://localhost:8080/api/brands
+Content-Type: application/json
+
+{
+    "name": "B"
+}
+
+###
+POST http://localhost:8080/api/brands
+Content-Type: application/json
+
+{
+    "name": "C"
+}
+
+###
+POST http://localhost:8080/api/brands
+Content-Type: application/json
+
+{
+    "name": "D"
+}
+
+###
+POST http://localhost:8080/api/brands
+Content-Type: application/json
+
+{
+    "name": "E"
+}
+
+###
+POST http://localhost:8080/api/brands
+Content-Type: application/json
+
+{
+    "name": "F"
+}
+
+###
+POST http://localhost:8080/api/brands
+Content-Type: application/json
+
+{
+    "name": "G"
+}
+
+###
+POST http://localhost:8080/api/brands
+Content-Type: application/json
+
+{
+    "name": "H"
+}
+
+###
+POST http://localhost:8080/api/brands
+Content-Type: application/json
+
+{
+    "name": "I"
+}
+

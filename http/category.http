@@ -1,0 +1,65 @@
+POST http://localhost:8080/api/categories
+Content-Type: application/json
+
+{
+    "name": "상의"
+}
+
+###
+
+POST http://localhost:8080/api/categories
+Content-Type: application/json
+
+{
+    "name": "아우터"
+}
+
+###
+
+POST http://localhost:8080/api/categories
+Content-Type: application/json
+
+{
+    "name": "바지"
+}
+
+###
+
+POST http://localhost:8080/api/categories
+Content-Type: application/json
+
+{
+    "name": "스니커즈"
+}
+
+###
+POST http://localhost:8080/api/categories
+Content-Type: application/json
+
+{
+    "name": "가방"
+}
+
+###
+POST http://localhost:8080/api/categories
+Content-Type: application/json
+
+{
+    "name": "모자"
+}
+
+###
+POST http://localhost:8080/api/categories
+Content-Type: application/json
+
+{
+    "name": "양말"
+}
+
+###
+POST http://localhost:8080/api/categories
+Content-Type: application/json
+
+{
+    "name": "악세사리"
+}
